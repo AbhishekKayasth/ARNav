@@ -1,2 +1,2 @@
 # ARNav
-An localized navigation app that helps user to find destinations at short enough distances that Google maps are not useful but long enough to get lost
+An localized navigation app that helps user navigate locations with increased precision then GPS
